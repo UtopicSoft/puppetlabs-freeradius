@@ -1,6 +1,6 @@
 {
   "name": "puppetlabs-freeradius",
-  "version": "0.1.0",
+  "version": "0.1.01",
   "author": "puppetlabs",
   "summary": "A module to manage FreeRADIUS using Puppet",
   "license": "Apache-2.0",
